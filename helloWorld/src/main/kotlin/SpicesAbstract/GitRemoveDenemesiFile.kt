@@ -1,0 +1,3 @@
+package SpicesAbstract
+
+fun gitRemoveDenemesiFile (){}
