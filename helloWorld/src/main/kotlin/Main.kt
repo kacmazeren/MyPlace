@@ -117,4 +117,8 @@ fun git(){
     println("acaba nasıl olacak")
     println("bu dosya yerelden açıldı kayıt gidecek mi deye kontrol ediyorum")
     println("acaba gitDiff bunu farkedecek mi")
+    println("gitFolder uzantısındaki ilk değişiklik committen sonra")
+    println("git diff denemesi için girildi")
+    println("git diff2 denemesi için girildi")
+
 }
