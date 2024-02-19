@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24ac23e0-cf3b-4672-aa52-e4622472a507" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/helloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/AMSKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/AMSKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/Book1$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/Book1$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/Book1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/Book1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/Book2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/Book2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/Book2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/Book2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/Constant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/ConstantKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/ConstantKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/Puppy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/Puppy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Book/ebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Book/ebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Buildings/BaseBuildingMaterial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Buildings/BaseBuildingMaterial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Buildings/BaseBuildingMaterialKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Buildings/BaseBuildingMaterialKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Buildings/Brick.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Buildings/Brick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Buildings/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Buildings/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Buildings/Wood.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Buildings/Wood.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/DiceKt$main$rollDice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/DiceKt$main$rollDice$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/DiceKt$main$rollDice1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/DiceKt$main$rollDice1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/DiceKt$main$rollDice2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/DiceKt$main$rollDice2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/DiceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/DiceKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Game/Directions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Game/Directions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Game/Game$east$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Game/Game$east$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Game/Game$north$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Game/Game$north$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Game/Game$south$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Game/Game$south$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Game/Game$west$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Game/Game$west$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Game/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Game/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/HigherOrderFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/HigherOrderFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/HigherOrderFunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/HigherOrderFunctionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/META-INF/helloWorld.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/META-INF/helloWorld.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/MoodKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/MoodKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/MoreFishKt$main$random2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/MoreFishKt$main$random2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/MoreFishKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/MoreFishKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Spice/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Spice/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Spice/SimpleSpice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Spice/SimpleSpice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Spice/Spice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/Spice/Spice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/Curry.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/Curry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/Grinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/Grinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/PrepareSpice$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/PrepareSpice$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/PrepareSpice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/PrepareSpice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/Spice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/Spice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/SpiceColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/SpiceColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/SpiceContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/SpiceContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/SpiceUdacity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/SpiceUdacity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/SpicesAbstract/YellowSpiceColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/out/production/helloWorld/SpicesAbstract/YellowSpiceColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/AMS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/AMS.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Book/Book.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Book/Book.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Book/Book1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Book/Book1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Book/Book2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Book/Book2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Book/Constant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Book/Constant.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Book/Puppy.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Book/Puppy.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Book/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Book/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Buildings/BaseBuildingMaterial.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Buildings/BaseBuildingMaterial.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Dice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Dice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Game/Directions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Game/Directions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Game/Game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Game/Game.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Game/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Game/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/HigherOrderFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/HigherOrderFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Mood.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Mood.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MoreFish.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/MoreFish.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Spice/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Spice/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Spice/SimpleSpice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Spice/SimpleSpice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Spice/Spice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/Spice/Spice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SpicesAbstract/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/SpicesAbstract/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SpicesAbstract/Spice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/SpicesAbstract/Spice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SpicesAbstract/SpiceUdacity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPlace/src/main/kotlin/SpicesAbstract/SpiceUdacity.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bvBzndEqav6D41YGOlA387GGrK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/Salih/IdeaProjects/helloWorld/src/main/kotlin/SpicesAbstract",
+    "last_opened_file_path": "C:/Users/Salih/IdeaProjects/gitFolder/MyPlace",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "kotlin"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Salih\IdeaProjects\helloWorld\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Salih\IdeaProjects\helloWorld\src\main\Aquarium" />
+      <recent name="C:\Users\Salih\IdeaProjects\helloWorld\src\main\kotlin" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="SpicesAbstract" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="AMSKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AMSKt" />
+      <module name="helloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="helloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.AMSKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ac23e0-cf3b-4672-aa52-e4622472a507" name="Changes" comment="" />
+      <created>1707085946031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707085946031</updated>
+      <workItem from="1707085947363" duration="19255000" />
+      <workItem from="1707175691871" duration="18131000" />
+      <workItem from="1707263697029" duration="193000" />
+      <workItem from="1707263903846" duration="57631000" />
+      <workItem from="1707917831964" duration="8981000" />
+      <workItem from="1708002632760" duration="13931000" />
+      <workItem from="1708129090952" duration="3760000" />
+      <workItem from="1708292563430" duration="2423000" />
+      <workItem from="1708299663099" duration="3432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/helloWorld$AMSKt.ic" NAME="AMSKt Coverage Results" MODIFIED="1707142027986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
