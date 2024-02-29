@@ -27,7 +27,7 @@ fun makeBinary(n : Int) {
     val num = 1
     val numbers = Array<Int>(n) { 0 }
     for (i in 0 until n) {
-        numbers[i] = num +i
+        numbers[i] = num + i
     }
     var sum = 0
     var binNum = ""
